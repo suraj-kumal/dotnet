@@ -1,0 +1,14 @@
+C:\net-centric\obj\Debug\net8.0\net-centric.GeneratedMSBuildEditorConfig.editorconfig
+C:\net-centric\obj\Debug\net8.0\net-centric.AssemblyInfoInputs.cache
+C:\net-centric\obj\Debug\net8.0\net-centric.AssemblyInfo.cs
+C:\net-centric\obj\Debug\net8.0\net-centric.csproj.CoreCompileInputs.cache
+C:\net-centric\bin\Debug\net8.0\net-centric.exe
+C:\net-centric\bin\Debug\net8.0\net-centric.deps.json
+C:\net-centric\bin\Debug\net8.0\net-centric.runtimeconfig.json
+C:\net-centric\bin\Debug\net8.0\net-centric.dll
+C:\net-centric\bin\Debug\net8.0\net-centric.pdb
+C:\net-centric\obj\Debug\net8.0\net-centric.dll
+C:\net-centric\obj\Debug\net8.0\refint\net-centric.dll
+C:\net-centric\obj\Debug\net8.0\net-centric.pdb
+C:\net-centric\obj\Debug\net8.0\net-centric.genruntimeconfig.cache
+C:\net-centric\obj\Debug\net8.0\ref\net-centric.dll
