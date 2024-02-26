@@ -37,7 +37,7 @@ namespace NCClabsuraj{
 
     }
     internal class Constructor{
-        static void Main()
+        public static void Main()
         {
             //set the values to parameterzed default contructor 
             Cube C1 = new()

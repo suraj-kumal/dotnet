@@ -24,7 +24,7 @@ namespace NCClabsuraj{
         }
     }
     internal class CopyConstructor{
-        static void Main()
+        public static void Main()
         {
             //creating object me and setting values
             Person me = new Person("suraj", 22);

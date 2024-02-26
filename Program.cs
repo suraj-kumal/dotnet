@@ -25,7 +25,7 @@ namespace NCClabsuraj{
     internal class Program{
         //static allows us to run method without creating object
         //main() method is the entry point of program
-        static void Main()
+        public static void Main()
         {
             //creating empty object world
             //memory is not allocated in ram
