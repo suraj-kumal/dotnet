@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("net-centric")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03683f68fba974aae0825bdfcdf13bade86bf773")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1658d94c0c2d00fd50cf18580d1868fc6728fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("net-centric")]
 [assembly: System.Reflection.AssemblyTitleAttribute("net-centric")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
