@@ -1,4 +1,5 @@
 using System;
+
 namespace NCClabsuraj{
     class Person{
         private string name;
@@ -25,11 +26,10 @@ namespace NCClabsuraj{
     internal class CopyConstructor{
         static void Main()
         {
-
             //creating object me and setting values
             Person me = new Person("suraj", 22);
 
-            //Environment.NewLine lets to break to new linw
+            //Environment.NewLine lets to break to new line
             Console.WriteLine(Environment.NewLine+"original me ");
             me.Display();
             
