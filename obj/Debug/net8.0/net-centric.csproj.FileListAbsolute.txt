@@ -12,3 +12,4 @@ C:\net-centric\obj\Debug\net8.0\refint\net-centric.dll
 C:\net-centric\obj\Debug\net8.0\net-centric.pdb
 C:\net-centric\obj\Debug\net8.0\net-centric.genruntimeconfig.cache
 C:\net-centric\obj\Debug\net8.0\ref\net-centric.dll
+C:\net-centric\obj\Debug\net8.0\net-centric.sourcelink.json

@@ -6,6 +6,6 @@
     <RootNamespace>net_centric</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>NCClabsuraj.Program</StartupObject>
+    <StartupObject>NCClabsuraj.Constructor</StartupObject>
   </PropertyGroup>
 </Project>
