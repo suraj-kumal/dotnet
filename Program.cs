@@ -28,7 +28,7 @@ namespace NCClabsuraj{
         public static void Main()
         {
             //creating empty object world
-            //memory is not allocated in ram
+            //memory is not allocated for empty object
             //FirstProgram world;
 
             //creating object hello allocating memory
