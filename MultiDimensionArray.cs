@@ -25,7 +25,7 @@ namespace NCClabsuraj
             //creating object
             MultiDA multiDAInstance = new MultiDA();
             int[,,] myNumbers = multiDAInstance.GetArray();
-            //travrse through array
+            //traverse through array
             foreach (int num in myNumbers)
             {
                 //printing array
