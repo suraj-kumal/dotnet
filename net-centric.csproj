@@ -6,6 +6,6 @@
     <RootNamespace>net_centric</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>NCClabsuraj.Array</StartupObject>
+    <StartupObject>NCClabsuraj.String</StartupObject>
   </PropertyGroup>
 </Project>
